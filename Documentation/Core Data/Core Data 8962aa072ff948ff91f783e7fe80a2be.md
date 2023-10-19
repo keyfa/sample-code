@@ -21,8 +21,8 @@ Core data is how the Pineapple project saves and caches data locally.
 
 [Saving Templates](https://www.notion.so/Saving-Templates-d45bafc00b924998946e8107c8bd8e92?pvs=21)
 
-[Fetching Templates](https://www.notion.so/Fetching-Templates-40b91e091b444510a6aa4ae0a5c19273?pvs=21)
+[Fetching Templates](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Fetching%20Templates%2040b91e091b444510a6aa4ae0a5c19273.md)
 
-[Deleting Templates](https://www.notion.so/Deleting-Templates-fb139675d95047139e06ceeca4e5ba14?pvs=21)
+[Deleting Templates](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Deleting%20Templates%20fb139675d95047139e06ceeca4e5ba14.md)
 
-[Updating Templates](https://www.notion.so/Updating-Templates-e888226f569443ffbddfe6f1ee1157c2?pvs=21)
+[Updating Templates](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Updating%20Templates%20e888226f569443ffbddfe6f1ee1157c2.md)
