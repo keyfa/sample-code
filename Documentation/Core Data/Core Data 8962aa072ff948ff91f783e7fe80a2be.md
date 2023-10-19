@@ -19,7 +19,7 @@ Core data is how the Pineapple project saves and caches data locally.
 
 [Creating Core Data Object](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Creating%20Core%20Data%20Object%20217ba3086836451c888bdbdbb7e14696.md)
 
-[Saving Templates](https://www.notion.so/Saving-Templates-d45bafc00b924998946e8107c8bd8e92?pvs=21)
+[Saving Templates](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Saving%20Templates%20d45bafc00b924998946e8107c8bd8e92.md)
 
 [Fetching Templates](https://github.com/keyfa/sample-code/blob/main/Documentation/Core%20Data/Fetching%20Templates%2040b91e091b444510a6aa4ae0a5c19273.md)
 
